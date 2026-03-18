@@ -37,7 +37,7 @@ const Contact = () => {
           to_name: "Ruvais",
           from_email: formData.email,
           to_email: "ruvais.careers@gmail.com",
-          message: formData.message,``
+          message: formData.message,
         },
         "pn-Bw_mS1_QQdofuV"
       );
