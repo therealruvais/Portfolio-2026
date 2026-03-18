@@ -140,12 +140,12 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/therealruvais/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ruvais____/reels/",
+    href: "https://www.instagram.com/ruvais____/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
